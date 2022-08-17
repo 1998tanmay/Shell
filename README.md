@@ -2,7 +2,7 @@
 ## Files to check 
   shell.c (400+ lines of code)
 
-##Description
+## Description
 
 In this assignment, you will be writing a shell for xv6. Your shell should be able to execute commands, handle arguments to the commands, and provide some functionality of a normal shell (discussed below).
 
